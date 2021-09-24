@@ -1,4 +1,4 @@
-# IFAC2020_SplitFuture_MPCcharging
+# A Split-Future MPC Algorithm for Lithium-Ion Battery Cell-Level Fast-Charge Control
 
 This repository contains a battery charging control algorithm using a split future model predictive control formulation proposed in the following publication
 
